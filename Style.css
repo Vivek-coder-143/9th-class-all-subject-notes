@@ -3,6 +3,10 @@ body{
 }
 h1{
   color:yellow
+  font-family: "Times New Roman","lucida console";
+  font-size: 1em;
+  font-weight:bold;
+  font-style:italic;
 }
 h2{
   color:pink
