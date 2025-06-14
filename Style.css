@@ -3,7 +3,7 @@ body{
 }
 h1{
   color:yellow
-  font-family: "Times New Roman","lucida console";
+  font-family: "lucida console",arial;
   font-size: 1em;
   font-weight:bold;
   font-style:italic;
